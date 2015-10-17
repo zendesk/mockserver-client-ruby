@@ -83,3 +83,25 @@ custom_tmp
 # drone.io build testing #
 ##########################
 drone.io
+
+# Ruby #
+########
+*.gem
+*.rbc
+*.bundle
+*.so
+*.o
+*.a
+*.log
+.config
+.yardoc
+.rakeTasks
+Gemfile.lock
+InstalledFiles
+coverage
+*doc
+*tmp
+lib/bundler/man
+pkg
+spec/reports
+vendor/bundle
